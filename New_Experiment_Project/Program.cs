@@ -10,6 +10,7 @@ namespace New_Experiment_Project
     {
         /// <summary>
         /// This is for testing purposes. Just want to know how thing will turn out
+        /// I want to try something new. This is a new comment
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
