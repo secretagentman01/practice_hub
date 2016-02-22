@@ -14,7 +14,7 @@ namespace New_Experiment_Project
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello Y'all");
         }
     }
 }
