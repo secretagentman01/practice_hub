@@ -16,6 +16,7 @@ namespace New_Experiment_Project
         static void Main(string[] args)
         {
             Console.WriteLine("It's a beautiful Morning");
+            Console.WriteLine("This is a new branch to test the capabilities of GIT in Visual Studio")
         }
     }
 }
